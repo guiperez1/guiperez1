@@ -5,18 +5,6 @@
 Olá, me chamo Guilherme Perez, tenho 18 anos 
 
 ---
-<p align="left">
-    </a>
-    <a href="https://github.com/guiperez1?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/guiperez1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
 
 ### 🤖 Linguagens e Tecnologias
 <img 
