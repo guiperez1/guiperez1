@@ -2,10 +2,14 @@
 
 **`Engenheiro de Sofware Full-Stack`**
 
-Olá, me chamo Guilherme Perez, tenho 18 anos 
+Olá, me chamo Guilherme Perez, tenho 18 anos e sou Paulista, nascido e criado em São Paulo. Conclui o Ensino Médio no Colégio Salgueiro. Estou cursando Engenharia de Software na Fiap 
 
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Engenheiro%20Full-Stack;Sempre%20aprendendo;Seja%20bem%20vindo;ao%20meu%20perfil!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 ---
-
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
