@@ -2,7 +2,7 @@
 
 **`Engenheiro de Sofware Full-Stack`**
 
-Olá, me chamo Guilherme Perez, tenho 18 anos e sou Paulista, nascido e criado em São Paulo. Conclui o Ensino Médio no Colégio Salgueiro. Estou cursando Engenharia de Software na Fiap 
+Olá, me chamo Guilherme Perez, tenho 18 anos, nascido e criado em São Paulo. Conclui o Ensino Médio no Colégio Salgueiro. No momento estou cursando Engenharia de Software na Fiap.
 
 
 ---
